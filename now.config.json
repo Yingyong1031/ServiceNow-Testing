@@ -1,7 +1,5 @@
 {
-  "version": 2,
-  "name": "your-project-name",
-  "builds": [
-    { "src": "index.js", "use": "@vercel/node" }
-  ]
+    "scope": "x_1878492_testing",
+    "scopeId": "97bcc8068321b21036007fc6feaad3ff",
+    "name": "Testing App"
 }
